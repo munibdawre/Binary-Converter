@@ -1,4 +1,4 @@
 # Binary-Converter
 Converts decimals to binary
 
-add /dec.html
+click here[https://munibdawre.github.io/Binary-Converter/dec.html]
